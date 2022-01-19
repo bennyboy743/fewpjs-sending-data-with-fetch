@@ -1,5 +1,6 @@
 {
-  "dogs": [{
+  "dogs": [
+    {
       "dogName": "Luca",
       "dogBreed": "German Shepherd",
       "id": 1
@@ -8,9 +9,15 @@
       "dogName": "Lola",
       "dogBreed": "Giant Schnauzer",
       "id": 2
+    },
+    {
+      "dogName": "test",
+      "dogBreed": "",
+      "id": 3
     }
   ],
-  "cats": [{
+  "cats": [
+    {
       "catName": "Stanley",
       "catBreed": "Tabby",
       "id": 1
@@ -21,10 +28,524 @@
       "id": 2
     }
   ],
-  "users": [],
-  "robots": [{
-    "robotName": "C8-09S100K",
-    "robotType": "Human Assistant",
-    "id": 9000
-  }]
+  "users": [
+    {
+      "name": "Ben",
+      "email": "testingemail@gmail.com",
+      "submit": "Submit",
+      "id": 1
+    },
+    {
+      "name": "Ben",
+      "email": "testingemail@gmail.com",
+      "submit": "Submit",
+      "id": 2
+    },
+    {
+      "name": "Ben",
+      "email": "testingemail@gmail.com",
+      "submit": "Submit",
+      "id": 3
+    },
+    {
+      "name": "Ben",
+      "email": "testingemail@gmail.com",
+      "submit": "Submit",
+      "id": 4
+    },
+    {
+      "name": "Ben",
+      "email": "testingemail@gmail.com",
+      "submit": "Submit",
+      "id": 5
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 6
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 7
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 8
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 9
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 10
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 11
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 12
+    },
+    {
+      "name": "Ben",
+      "email": "testtinggggg the email",
+      "id": 13
+    },
+    {
+      "name": "Ben",
+      "email": "testingemail@gmail.com",
+      "submit": "Submit",
+      "id": 14
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 15
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 16
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 17
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 18
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 19
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 20
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 21
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 22
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 23
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 24
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 25
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 26
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 27
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 28
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 29
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 30
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 31
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 32
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 33
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 34
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 35
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 36
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 37
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 38
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 39
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 40
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 41
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 42
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 43
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 44
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 45
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 46
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 47
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 48
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 49
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 50
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 51
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 52
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 53
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 54
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 55
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 56
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 57
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 58
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 59
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 60
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 61
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 62
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 63
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 64
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 65
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 66
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 67
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 68
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 69
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 70
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 71
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 72
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 73
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 74
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 75
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 76
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 77
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 78
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 79
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 80
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 81
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 82
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 83
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 84
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 85
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 86
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 87
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 88
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 89
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 90
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 91
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 92
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 93
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 94
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 95
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 96
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 97
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 98
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 99
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 100
+    },
+    {
+      "name": "Ben",
+      "email": "testing",
+      "id": 101
+    }
+  ],
+  "robots": [
+    {
+      "robotName": "C8-09S100K",
+      "robotType": "Human Assistant",
+      "id": 9000
+    }
+  ]
 }
